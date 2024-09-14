@@ -7,14 +7,7 @@ import neopixel
 import board
 import os
 
-'''
-email = 'hanxiaoyu0628@googlemail.com'
-password = 'lxjldcndhfogsrml'
 
-
-email = '1527846269@qq.com'
-password = 'vxghgxadilojawvr'
-'''
 
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
